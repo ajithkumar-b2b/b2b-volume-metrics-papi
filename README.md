@@ -5,3 +5,6 @@ To automate the creation of Transaction Journal records in Salesforce by process
 
 # High-Level Diagram
 <img width="1278" height="472" alt="b2b drawio (1)" src="https://github.com/user-attachments/assets/426e9f5d-ae93-4664-afd9-a1c48fb21c7f" />
+
+# Detailed Document
+https://shiftlogicio.atlassian.net/wiki/spaces/B2Brokers/pages/73564164/MuleSoft+Integration+Design+and+Functional+Requirements+Overview+-+Monthly+Volume
